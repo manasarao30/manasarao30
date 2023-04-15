@@ -1,4 +1,4 @@
-<center>Hello &<coders/>;! 👋</center>
+<center>Hello <coders/> 👋</center>
 
 <!--
 **manasarao30/manasarao30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<hr>
+<hr style="width:50%;text-align:left;margin-left:0">
 
 - 🔭 I’m currently working on Data Science and Web Development   
 - 🌱 I’m currently learning DevOps and Competitive programming
@@ -22,6 +22,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: manasarao54747@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Best Part Of The Journey Is: <i>It Ends</i>
-- 
-<hr>
 
+<hr style="width:50%;text-align:left;margin-left:0">
