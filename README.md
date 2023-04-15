@@ -18,12 +18,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Data Science and Web Development   
+- 🔭 I’m currently working on Data Science and Web Development  <p align="center">
+  <img width="356" alt="Screenshot 2023-04-15 at 1 22 59 PM" src="https://user-images.githubusercontent.com/54011799/232231936-51eb9986-2feb-4c88-9b4d-f91dcef95036.png">
+</p> 
 - 🌱 I’m currently learning DevOps and Competitive programming
 - 💬 Ask me anything 
 - 📫 How to reach me: manasarao54747@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Best Part Of The Journey Is: <i>It Ends</i>
+
 
 </body>
 
