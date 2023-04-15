@@ -1,4 +1,4 @@
-<center>Hello <coders/>! 👋</center>
+<center>Hello &<coders/>;! 👋</center>
 
 <!--
 **manasarao30/manasarao30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,9 +21,7 @@ Here are some ideas to get you started:
 - 💬 Ask me anything 
 - 📫 How to reach me: manasarao54747@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Best Part Of The Journey Is: <i>It Ends</i>
 - 
 <hr>
 
-<center><img width="356" alt="Screenshot 2023-04-15 at 1 22 59 PM" src="https://user-images.githubusercontent.com/54011799/232197426-10cf1dde-c85f-4d34-ac76-0a883cfbe2f4.png">
-</center>
