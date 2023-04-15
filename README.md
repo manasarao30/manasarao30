@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Data Science and Web Development
+- 🔭 I’m currently working on Data Science and Web Development   
 - 🌱 I’m currently learning DevOps and Competitive programming
 - 💬 Ask me anything 
 - 📫 How to reach me: manasarao54747@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
-![3301602](https://user-images.githubusercontent.com/54011799/232197339-8face9e1-cb47-4840-aac5-3783f559ce03.jpg)
+
+
+<img width="356" alt="Screenshot 2023-04-15 at 1 22 59 PM" src="https://user-images.githubusercontent.com/54011799/232197426-10cf1dde-c85f-4d34-ac76-0a883cfbe2f4.png">
