@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<hr style="width:50%;text-align:left;margin-left:0">
+<hr style="width:20%;text-align:center">
 
 - 🔭 I’m currently working on Data Science and Web Development   
 - 🌱 I’m currently learning DevOps and Competitive programming
@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Best Part Of The Journey Is: <i>It Ends</i>
 
-<hr style="width:50%;text-align:left;margin-left:0">
+<hr style="width:20%;text-align:center">
