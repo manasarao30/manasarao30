@@ -1,7 +1,7 @@
  <!DOCTYPE html>
 <html>
 <body>
- <h2><center>Hello <coders/> 👋</center></h2>
+ <h2 style="align:center;">Hello <coders/> 👋</h2>
 
 <!--
 **manasarao30/manasarao30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<hr style="width:20%;text-align:center">
 
 - 🔭 I’m currently working on Data Science and Web Development   
 - 🌱 I’m currently learning DevOps and Competitive programming
