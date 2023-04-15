@@ -1,12 +1,5 @@
  <!DOCTYPE html>
 <html>
- <head>
- <style>
-  img{
-  float:right;
-  }
- </style>
- </head>
 <body>
 <h2 align="center">Hello <coders/> 👋</h2>
 
@@ -25,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p>
-  <img width="356" alt="Screenshot 2023-04-15 at 1 22 59 PM" src="https://user-images.githubusercontent.com/54011799/232231936-51eb9986-2feb-4c88-9b4d-f91dcef95036.png">
+  <img float="right" width="356" alt="Screenshot 2023-04-15 at 1 22 59 PM" src="https://user-images.githubusercontent.com/54011799/232231936-51eb9986-2feb-4c88-9b4d-f91dcef95036.png">
 </p> 
 - 🔭 I’m currently working on Data Science and Web Development  
 - 🌱 I’m currently learning DevOps and Competitive programming
