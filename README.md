@@ -14,13 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<hr>
 - 🔭 I’m currently working on Data Science and Web Development   
 - 🌱 I’m currently learning DevOps and Competitive programming
 - 💬 Ask me anything 
 - 📫 How to reach me: manasarao54747@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
+<hr>
 
-
-<img width="356" alt="Screenshot 2023-04-15 at 1 22 59 PM" src="https://user-images.githubusercontent.com/54011799/232197426-10cf1dde-c85f-4d34-ac76-0a883cfbe2f4.png">
+<center><img width="356" alt="Screenshot 2023-04-15 at 1 22 59 PM" src="https://user-images.githubusercontent.com/54011799/232197426-10cf1dde-c85f-4d34-ac76-0a883cfbe2f4.png">
+</center>
