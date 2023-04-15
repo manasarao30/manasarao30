@@ -1,4 +1,7 @@
- <center>Hello <coders/> 👋</center>
+ <!DOCTYPE html>
+<html>
+<body>
+ <h2><center>Hello <coders/> 👋</center></h2>
 
 <!--
 **manasarao30/manasarao30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,4 +26,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Best Part Of The Journey Is: <i>It Ends</i>
 
+</body>
+
+</html>
+ 
 
