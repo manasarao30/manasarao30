@@ -1,9 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Manasa Rao
 ==================================================================================================================================
 
-Web Developer and Designer
---------------------------
-
 I'm Manasa, a designer and developer based in India. I'm currently working as an Application Development Analyst at Accenture, where I specialize in Google Cloud Platform and Product Content Management System.
 
 * 🌍  I'm based in India
