@@ -5,7 +5,7 @@ I'm Manasa, a designer and developer based in India. I'm currently working as an
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [manasarao54747@gmail.com](mailto:manasarao54747@gmail.com)
-* 🧠  I'm learning Competitive Programing and Devops
+* 🧠  I'm learning Competitive Programming and Devops
 * 🤝  I'm open to collaborating on Web Development
 * ⚡  I love bringing efficiency to things. I have a passion for solving problems, building sustainable solutions, and learning as much as I can about things that interest me. When I'm not working, I'm probably hanging out with my cat, painting or reading thrillers.
 
