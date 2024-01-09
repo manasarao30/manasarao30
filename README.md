@@ -1,7 +1,9 @@
 Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ==================================================================================================================================
 
-I'm Manasa, a designer and developer based in India. I'm currently working as an Application Development Analyst at Accenture, where I specialize in Google Cloud Platform and Product Content Management System.
+Hi, I'm Manasa Rao, a software engineer with a passion for pushing the boundaries of technology and collaborative success. Currently pursuing a Master's in Computer Science at Northeastern University.
+
+With around two years of hands-on experience at Accenture, I specialized in optimizing data workflows on Google Cloud Platform.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [manasarao54747@gmail.com](mailto:manasarao54747@gmail.com)
