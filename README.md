@@ -3,11 +3,11 @@ Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 
 Hi, I'm Manasa Rao, a software engineer with a passion for pushing the boundaries of technology and collaborative success. Currently pursuing a Master's in Computer Science at Northeastern University.
 
-With around two years of hands-on experience at Accenture, I specialized in optimizing data workflows on Google Cloud Platform.
+With around two years of hands-on experience at Accenture, I specialized in architecting scalable microservices and deploying cloud solutions that handled thousands of concurrent requests, improving system efficiency and reducing deployment times.
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [manasarao54747@gmail.com](mailto:manasarao54747@gmail.com)
-* 🤝  I'm open to collaborating on Web and App Development
+* 🌍  I'm based in Boston
+* ✉️  You can contact me at [rao.mana@northeastern.edu]
+* 🤝  I'm open to collaborating on Cloud and Full-stack development
 * ⚡  I love bringing efficiency to things. I have a passion for solving problems, building sustainable solutions, and learning as much as I can about things that interest me. When I'm not working, I'm probably hanging out with my cat, painting or reading thrillers.
 
 ### Skills
