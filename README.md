@@ -9,9 +9,6 @@ Hi, I'm Manasa Rao, a software engineer with a passion for pushing the boundarie
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=manasarao30&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=manasarao30&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=manasarao30&icon=1&color=3)](https://visitcount.itsvg.in)
 
